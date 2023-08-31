@@ -1,0 +1,21 @@
+*{padding: 0;margin: 0;}
+.container{height: 100vh;
+           width: 100vh;
+           color: #444;
+           background: #ffe7e3;
+           text-align: center;}
+.Me,.Okie, .No{
+	padding-top: 25%
+}
+h2{font-size: 55px;margin-bottom: 30px;}
+.Me span{color: red;}
+.Me a{text-decoration: none;
+     background: #eee;
+     padding: 5px;
+     margin: 5px 10px;
+     border: 3px solid #ddd;
+     border-radius: 10px;
+ }
+#No{color:red;}
+#Okie{color: green;}
+
