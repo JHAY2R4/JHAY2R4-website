@@ -4,7 +4,7 @@
            color: #161417;
            background: #de6c50;
            text-align: center;}
-.Me,.Okie, .No, .Idk{
+.Me,.Okie, .No, .Idk, .MayIba{
 	padding-top: 25%
 }
 h2{font-size: 100px;margin-bottom: 100px;}
@@ -19,3 +19,4 @@ h2{font-size: 100px;margin-bottom: 100px;}
 #No{color:red;}
 #Okie{color: green;}
 #Idk{color: #6e5a25;}
+#MayIba{color: #39524f}
